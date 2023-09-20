@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto DevLinks, é um apoio da Rocketseat para pessoas interessadas em programação deem seu primeiro passo.
+O projeto DevLinks, é um apoio da Rocketseat para pessoas interessadas em programação possam dar seu primeiro passo dentro desse mundo.
 
 ## 🔖 Layout
 
